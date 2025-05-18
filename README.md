@@ -1,4 +1,4 @@
-# ProjetosTecnicoDS
+# Projetos de Lógica de programação
 Projetos feitos para o Curso de Desenvolvimento de Sistemas
 
 >>Notas.py:Programa simples de cálculo de notas bimestrais. Visa ensinar os alunos a criação de variáveis, operações matemáticas, comparadores e estruturas condicionais.

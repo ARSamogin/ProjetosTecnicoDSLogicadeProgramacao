@@ -10,3 +10,5 @@ Projetos feitos para o Curso de Desenvolvimento de Sistemas
 >>ProgressaoAritimetica.py: Programa que calcula a progressão aritimética a partir de um termo inicial e de uma razão. Usado para ensinar Loops While junto a Tabuada.py
 
 >>Tabuada.py: Programa onde o usuário digita um número e é retornado a tabuada de 1 a 10. Usado para ensinar loops junto a ProgresaoAritimetica.py
+
+>>Caracteres.py: Programa para contar a quantidade de vezes que um caractere aparece em um texto, usado como exemplo de mistura de loops e condicionais

@@ -7,3 +7,5 @@ Projetos feitos para o Curso de Desenvolvimento de Sistemas
     Esse programa permite que o usuário dê entrada na medida dos três lados de um triângulo e o programa retornará seu perímero, área e o tipo do triângulo. Busca ensinar os alunos sobre bibliotecas Python ao importar a função sqrt() da biblioteca Math e treinar os conceitos de condicionais.
 
 >>DescontoLivros.py: Programa que simula um desconto em uma livraria dependendo da quantidade e dos livros comprados. Visa ensinar sobre aninhamento de condicionais
+
+>>ProgressaoAritimetica.py: Programa que calcula a progressão aritimética a partir de um termo inicial e de uma razão. Usado para ensinar Loops While junto a Tabuada.py

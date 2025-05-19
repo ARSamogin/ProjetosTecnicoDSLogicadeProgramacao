@@ -12,3 +12,5 @@ Projetos feitos para o Curso de Desenvolvimento de Sistemas
 >>Tabuada.py: Programa onde o usuário digita um número e é retornado a tabuada de 1 a 10. Usado para ensinar loops junto a ProgresaoAritimetica.py
 
 >>Caracteres.py: Programa para contar a quantidade de vezes que um caractere aparece em um texto, usado como exemplo de mistura de loops e condicionais
+
+>SomaeMediaListas.py: programa com uma lista fixa de números, ele utiliza um loop simples para fazer a soma e então a média da Lista. Primeiro programa com listas

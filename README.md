@@ -14,3 +14,5 @@ Projetos feitos para o Curso de Desenvolvimento de Sistemas
 >>Caracteres.py: Programa para contar a quantidade de vezes que um caractere aparece em um texto, usado como exemplo de mistura de loops e condicionais
 
 >SomaeMediaListas.py: programa com uma lista fixa de números, ele utiliza um loop simples para fazer a soma e então a média da Lista. Primeiro programa com listas
+
+>>ListadeCompras.py: programa que permite o usuário criar uma lista de compras, onde ele consegue adicionar e remover items, limpar a lista e mostrar a lista criada.

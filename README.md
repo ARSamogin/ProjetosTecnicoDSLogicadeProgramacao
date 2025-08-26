@@ -18,3 +18,5 @@ Projetos feitos para o Curso de Desenvolvimento de Sistemas
 >>ListadeCompras.py: programa que permite o usuário criar uma lista de compras, onde ele consegue adicionar e remover items, limpar a lista e mostrar a lista criada.
 
 >>Logaritmos.py: programa que calcula duas escalas logarítmicas diferentes, pH e Richter. O programa introduz os estudantes ao conceitos de funcões que serão explorados mais a fundo futuramente no curso e utiliza a função "log10" da biblioteca math do Python. Projeto Interdisciplinar.
+
+>>Dados.py: programa que utiliza a biblioteca Random para simular as rolagens dos 7 principais dados do sistema D20 de RPG. Utiliza várias das estruturas aprendidas pelos estudantes durante o ano.
